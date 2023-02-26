@@ -3,7 +3,7 @@ import java.awt.Color;
 import Components.*;
 
 // 9/13/22: Power up  never ends, no instructions at beginning,
-//power up doesnt disappear after getting, game doesnt end after breaking all bricks
+//power up doesn't disappear after getting, game doesn't end after breaking all bricks
 
 
 public class BrickBreaker {
