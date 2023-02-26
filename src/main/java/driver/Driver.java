@@ -1,7 +1,7 @@
-package Main;
+package driver;
 import javax.swing.JFrame;
 
-public class Main {
+public class Driver {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("Brick Breaker");

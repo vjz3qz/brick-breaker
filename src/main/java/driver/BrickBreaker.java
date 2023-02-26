@@ -1,6 +1,6 @@
-package Main;
+package driver;
 import java.awt.Color;
-import Components.*;
+import components.*;
 
 // 9/13/22: Power up  never ends, no instructions at beginning,
 //power up doesn't disappear after getting, game doesn't end after breaking all bricks
