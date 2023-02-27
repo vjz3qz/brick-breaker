@@ -1,7 +1,5 @@
-# Brick Breaker
+# 🧱 Brick Breaker 🧱
 Recreated Brick Breaker from scratch in Java. Programmed in-game components using object-oriented programming concepts like inheritance, encapsulation, association, and composition. Supported keyboard input and graphical user interface.
-
-
 ### How to run the game:
 #### IntelliJ:
 1) copy the .git link of this repository.
