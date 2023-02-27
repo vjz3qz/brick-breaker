@@ -10,4 +10,4 @@ Recreated Brick Breaker from scratch in Java. Programmed in-game components usin
 4) Type ```java -jar build/libs/BrickBreaker.jar``` into the Terminal.
 #### Alternative:
 1) In this repository, go to ```build/lib/BrickBreaker.jar```.
-2) Download and run this .jar file.
+2) Download and run this ```.jar``` file.
