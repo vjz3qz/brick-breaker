@@ -1,5 +1,6 @@
 # 🧱 Brick Breaker 🧱
-Recreated Brick Breaker from scratch in Java. Programmed in-game components using object-oriented programming concepts like inheritance, encapsulation, association, and composition. Supported keyboard input and graphical user interface. Used Gradle script to build an executable .jar file.
+Recreated Brick Breaker from scratch in Java using Eclipse and later IntelliJ. Programmed in-game components using test-driven development approach with the JUnit framework. Supported keyboard input and graphical user interface. Adopted key object-oriented programming concepts like inheritance, encapsulation, association, and composition within the project. Used a Build Gradle script to build an executable .jar file.
+
 ### How to run the game:
 #### IntelliJ:
 1) copy the .git link of this repository.
